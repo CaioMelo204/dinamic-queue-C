@@ -1,0 +1,25 @@
+# ninja log v6
+3	80	7478057515058304	CMakeFiles/dinamic_queue.dir/main.c.obj	d79d31e793fba7cd
+81	165	7478057515834582	dinamic_queue.exe	3c817fb09604500c
+5	82	7478058031709670	CMakeFiles/dinamic_queue.dir/main.c.obj	d79d31e793fba7cd
+82	165	7478058032479929	dinamic_queue.exe	3c817fb09604500c
+4	83	7478058795428607	CMakeFiles/dinamic_queue.dir/main.c.obj	d79d31e793fba7cd
+83	167	7478058796221393	dinamic_queue.exe	3c817fb09604500c
+4	81	7478059431251668	CMakeFiles/dinamic_queue.dir/main.c.obj	d79d31e793fba7cd
+81	166	7478059432022148	dinamic_queue.exe	3c817fb09604500c
+5	82	7478059855536597	CMakeFiles/dinamic_queue.dir/main.c.obj	d79d31e793fba7cd
+83	168	7478059856317316	dinamic_queue.exe	3c817fb09604500c
+5	91	7478060249594153	CMakeFiles/dinamic_queue.dir/main.c.obj	d79d31e793fba7cd
+91	184	7478060250445403	dinamic_queue.exe	3c817fb09604500c
+4	79	7478060472878948	CMakeFiles/dinamic_queue.dir/main.c.obj	d79d31e793fba7cd
+79	168	7478060473627506	dinamic_queue.exe	3c817fb09604500c
+5	88	7478060650797278	CMakeFiles/dinamic_queue.dir/main.c.obj	d79d31e793fba7cd
+88	176	7478060651627174	dinamic_queue.exe	3c817fb09604500c
+5	81	7478061120431486	CMakeFiles/dinamic_queue.dir/main.c.obj	d79d31e793fba7cd
+82	165	7478061121195382	dinamic_queue.exe	3c817fb09604500c
+5	84	7478061753608910	CMakeFiles/dinamic_queue.dir/main.c.obj	d79d31e793fba7cd
+84	165	7478061754404862	dinamic_queue.exe	3c817fb09604500c
+5	84	7478062274161798	CMakeFiles/dinamic_queue.dir/main.c.obj	d79d31e793fba7cd
+84	171	7478062274949568	dinamic_queue.exe	3c817fb09604500c
+5	80	7478062631274498	CMakeFiles/dinamic_queue.dir/main.c.obj	d79d31e793fba7cd
+80	164	7478062632028397	dinamic_queue.exe	3c817fb09604500c
